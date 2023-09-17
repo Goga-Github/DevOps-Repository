@@ -1,2 +1,1 @@
-ByE
-ByE GM
+ByE Goga-GitHub

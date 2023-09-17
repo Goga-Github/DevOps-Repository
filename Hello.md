@@ -1,2 +1,1 @@
-HellO
-HellO GM
+HellO Goga-GitHub
